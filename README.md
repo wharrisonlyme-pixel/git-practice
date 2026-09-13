@@ -1,3 +1,4 @@
-﻿# Git Practice
+# Git Practice
 
 This is my second commit.
+
